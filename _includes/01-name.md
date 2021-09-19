@@ -1,1 +1,3 @@
-Replace this with your name, and include a header.
+# Hey There, I'm Bill Ren, an original path finder.
+*** 
+## Welcome to my website!
