@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![photo names](https://www.researchgate.net/profile/Raja-Masadeh/publication/322487895/figure/tbl1/AS:631598991044611@1527596342264/Comparison-of-the-effect-of-number-of-requirements-in-each-technique_W640.jpg)
